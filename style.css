@@ -126,3 +126,8 @@ color: black;
 
 
 }
+.banner{
+    background-image: url('./back-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

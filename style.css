@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#pre-header {
+    background: rgb(135, 235, 230);
+    height: 40px;
+}
+
+.date {
+    position: absolute;
+    left: 40px;
+    top: 12px;
+    color: white;
+}
+
+.contact {
+    position: absolute;
+    left: 1095px;
+    top: 12px;
+    color: white;
+}
+
+.icons {
+    padding-right: 9px;
+}
+
+.main-header {
+    background: white;
+    height: 140px;
+}
+
+.company {
+    position: absolute;
+    left: 65px;
+    top: 81px;
+}
+
+.brand {
+    font-size: 37px;
+}
+
+.services {
+
+
+
+}
+
+.menus {
+    position: absolute;
+    left: 300px;
+    top: 92px;
+}
+
+.menu {
+    display: inline;
+    font-size: 19px;
+    margin: 23px;
+    padding: 1px;
+}
+
+.a {    
+color: black;
+}
+
+.button {
+    position: absolute;
+    left: 1130px;
+    top: 92px;
+    font-size: 19px;
+    color: white;
+    background: aqua;
+    height: 30px;
+    width: 173px;
+    border-radius: 5px;
+    padding-left: 11px;
+    padding-top: 4px;
+}
+
+.a:hover {
+    color: aqua ;
+}
+.content {
+
+}
+.heading {
+
+}
+
+.active {
+
+    color: aqua ;
+
+}
+
+.main {
+
+
+}
+
+#slider {
+
+    background-image: url('./medicio.png');
+    height: 100%;
+
+
+}
+
+.slider-box {
+
+
+}
+
+.slider-heading {
+
+
+}
+
+.slider-info {
+
+
+}
+
+.slider-more {
+
+
+}
